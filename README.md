@@ -24,10 +24,6 @@
 ![NumPy](https://img.shields.io/badge/numpy-%20%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%20%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-### My Projects
-### Geste_Maze( https://gester-maze-n.onrender.com)
-
-### Rock_Paper_Scissors(https://cv-rock-paper-scissors-wzlf.onrender.com/)
 
 ## 📣 Random Dev Quote:
 > *"There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us."*  
