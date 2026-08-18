@@ -10,6 +10,7 @@
 **Projects:**
 - [Geste_Maze](https://gester-maze-n.onrender.com)
 - [Rock_Paper_Scissors](https://cv-rock-paper-scissors-wzlf.onrender.com/)
+- [Type_racer_road](https://type-racer-road-k5q0.onrender.com/)
 
 ## 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
