@@ -7,8 +7,10 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikitha-jammugani-5337542b7/)
 
+[My_Portfolio](https://portfolionikitha.netlify.app/) 
+
 **Projects:**
--[My_Portfolio](https://portfolionikitha.netlify.app/)
+
 - [Gester_Maze_game](https://gesture-maze-game.onrender.com)
 - [Rock_Paper_Scissors](https://cv-rock-paper-scissors-wzlf.onrender.com/)
 - [Type_racer_road](https://type-racer-road-k5q0.onrender.com/)
