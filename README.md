@@ -12,7 +12,7 @@
 **Projects:**
 
 - [Gester_Maze_game](https://nikithajammugani2004-png.github.io/gesture-maze-game/)
-- [Rock_Paper_Scissors](https://cv-rock-paper-scissors-wzlf.onrender.com/)
+- [Rock_Paper_Scissors](https://nikithajammugani2004-png.github.io/rock_paper_scissors_app/)
 - [Type_racer_road](https://type-racer-road-k5q0.onrender.com/)
 - [AirDrawer](https://airdrawer.onrender.com)
 - [Vision_jigsaw_puzzle](https://vision-jigsawpuzzle.onrender.com)
