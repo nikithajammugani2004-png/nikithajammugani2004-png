@@ -15,7 +15,7 @@
 - [Rock_Paper_Scissors](https://nikithajammugani2004-png.github.io/rock_paper_scissors_app/)
 - [Type_racer_road](https://type-racer-road.vercel.app/)
 - [AirDrawer](https://air-drawer-taupe.vercel.app/)
-- [Vision_jigsaw_puzzle](https://vision-jigsawpuzzle.onrender.com)
+- [Vision_jigsaw_puzzle](https://type-racer-road-jtam.vercel.app/)
 
 ## 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
