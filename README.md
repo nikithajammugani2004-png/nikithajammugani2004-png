@@ -11,7 +11,7 @@
 
 **Projects:**
 
-- [Gester_Maze_game](https://gesture-maze-game.onrender.com)
+- [Gester_Maze_game](https://nikithajammugani2004-png.github.io/gesture-maze-game/)
 - [Rock_Paper_Scissors](https://cv-rock-paper-scissors-wzlf.onrender.com/)
 - [Type_racer_road](https://type-racer-road-k5q0.onrender.com/)
 - [AirDrawer](https://airdrawer.onrender.com)
