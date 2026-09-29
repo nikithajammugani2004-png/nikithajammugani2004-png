@@ -16,6 +16,7 @@
 - [Type_racer_road](https://type-racer-road.vercel.app/)
 - [AirDrawer](https://air-drawer-taupe.vercel.app/)
 - [Vision_jigsaw_puzzle](https://type-racer-road-jtam.vercel.app/)
+-[connecr-row](https://connect-row.netlify.app/)
 
 ## 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
