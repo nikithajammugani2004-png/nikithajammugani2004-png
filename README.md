@@ -15,7 +15,7 @@
 - [Rock_Paper_Scissors](https://nikithajammugani2004-png.github.io/rock_paper_scissors_app/)
 - [Type_racer_road](https://type-racer-road.vercel.app/)
 - [AirDrawer](https://air-drawer-taupe.vercel.app/)
-- [Vision_jigsaw_puzzle](https://type-racer-road-jtam.vercel.app/)
+- [Vision_jigsaw_puzzle](https://tranquil-brioche-b3c4f5.netlify.app/)
 - [connecr-row](https://connect-row.netlify.app/)
 
 ## 💻 Tech Stack:
