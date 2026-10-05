@@ -31,7 +31,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%20%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 
-## 📣 Random Dev Quote:
+##  Dev Quote:
 > *"There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us."*  
 > — **Elon Musk**
 
