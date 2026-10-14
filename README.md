@@ -35,12 +35,6 @@
 > *"There certainly will be job disruption. Because what's going to happen is robots will be able to do everything better than us."*  
 > — **Elon Musk**
 
-## 🔝 Top Contributed Repo
-[![Profile Views](https://komarev.com/ghpvc/?username=nikithajammugani2004-png&color=blue)](https://github.com/nikithajammugani2004-png)
-
-
-![GitHub Contribution Snake Animation](https://githubusercontent.com)
-
 
 
 
