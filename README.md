@@ -37,3 +37,11 @@
 
 ## 🔝 Top Contributed Repo
 [![Profile Views](https://komarev.com/ghpvc/?username=nikithajammugani2004-png&color=blue)](https://github.com/nikithajammugani2004-png)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <img alt="GitHub Contribution Snake Animation" src="https://githubusercontent.com">
+</picture>
+
